@@ -1,0 +1,6 @@
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\bin\Debug\Resources.dll
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\bin\Debug\Resources.pdb
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\obj\Debug\Resources.Common.resources
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\obj\Debug\Resources.dll
+k:\users\kok\documents\visual studio 2013\Projects\MVCPOC\Resources\obj\Debug\Resources.pdb
