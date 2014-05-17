@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCPOC", "MVCPOC\MVCPOC.csproj", "{9E76C4B3-71A5-4EAC-B0ED-91F061D5B6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resources", "Resources\Resources.csproj", "{D55A6239-4E0A-4842-8969-B6199584CF5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E76C4B3-71A5-4EAC-B0ED-91F061D5B6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E76C4B3-71A5-4EAC-B0ED-91F061D5B6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E76C4B3-71A5-4EAC-B0ED-91F061D5B6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E76C4B3-71A5-4EAC-B0ED-91F061D5B6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D55A6239-4E0A-4842-8969-B6199584CF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55A6239-4E0A-4842-8969-B6199584CF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55A6239-4E0A-4842-8969-B6199584CF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55A6239-4E0A-4842-8969-B6199584CF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 6b54d079-f6cd-4993-b2e3-4f6543b30bc6
+	EndGlobalSection
+EndGlobal
